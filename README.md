@@ -463,7 +463,7 @@ void terminalNodes(Node *root)
 ```
 <p>&nbsp;</p>
 
-<h2>Important! Oricare din aceste tipuri de date structurate poate deține mai multe câmpuri de informație, nu doar un integer numit date.</h2>
+<h3>Important! Oricare din aceste tipuri de date structurate poate deține mai multe câmpuri de informație, nu doar un integer numit date.</h3>
 
 De exemplu, aici avem structura unui arbore binar din persoane:
 ```c++
