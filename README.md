@@ -100,7 +100,7 @@ struct Node
     Node *prev, *next;
 };
 ```
-schema logică :
+schema logică:
 
 ![image](https://user-images.githubusercontent.com/84264524/208507632-50d114ec-d298-4516-8337-0b569544c5dc.png)
 
